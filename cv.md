@@ -21,7 +21,7 @@ Technical
     -   STL, Boost, Qt, Django, jQuery, Node, Rails and Angular.
     -   PostgreSQL, MySQL, SQLite and MongoDB.
     -   Ubuntu, CentOS and Windows.
-    -   Make, CMake, Git, Vim, and GDB.
+    -   Make, CMake, Git, Vim and GDB.
     -   Object Orientated Design, Concurrency, MVC and RESTful Architecture.
     -   Test-Focused Development, Agile and Scrum.
 
