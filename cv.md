@@ -9,7 +9,7 @@ Thomas Whitton
 Summary
 -------
 
-*   An intelligent software developer with strong mathematical skills. Very enthusiastic about technology. Always reading, coding, learning and improving.
+*   An intelligent software developer with strong analytical and problem-solving skills. Very enthusiastic and passionate about technology. Always reading, learning, programming and improving.
 
 
 Technical
@@ -18,8 +18,8 @@ Technical
 *   Experienced with:
 
     -   C++, Python, JavaScript and Ruby.
-    -   STL, Boost, Qt, Django, jQuery, Node, Rails and Angular.
-    -   PostgreSQL, MySQL, SQLite and MongoDB.
+    -   STL, Boost, Django, jQuery and Ruby on Rails.
+    -   PostgreSQL, MySQL, SQLite and NoSQL
     -   Ubuntu, CentOS and Windows.
     -   Make, CMake, Git, Vim and GDB.
     -   Object Orientated Design, Concurrency, MVC and RESTful Architecture.
@@ -29,9 +29,9 @@ Technical
 Career
 ------
 
-*   **[BAE Systems Detica](http://baesystemsdetica.com)** (2011 - present)
+*   **[BAE Systems Applied Intelligence](http://baesystemsdetica.com)** (2011 - present)
 
-    *Software Developer, Electronic Systems Group.*
+    *Senior Software Developer, Electronic Systems Group.*
 
     -   Developed and maintained complex multi-tiered and multi-platform high-availability systems.
     -   Designed and developed high speed real-time C++ applications for Linux, with extensive use of the STL and Boost libraries.
