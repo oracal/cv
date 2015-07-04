@@ -18,7 +18,7 @@ Technical
 *   Experienced with:
 
     -   C++, Python, JavaScript and Ruby.
-    -   STL, Boost, Django, jQuery and Ruby on Rails.
+    -   STL, Boost, Django, jQuery, Node.js and Ruby on Rails.
     -   PostgreSQL, MySQL, SQLite and NoSQL
     -   Ubuntu, CentOS and Windows.
     -   Make, CMake, Git, Vim and GDB.
@@ -29,7 +29,15 @@ Technical
 Career
 ------
 
-*   **[BAE Systems Applied Intelligence](http://baesystemsdetica.com)** (2011 - present)
+*   **[Bloomberg](http://www.bloomberg.com)** (2014 - Present)
+
+    *Senior Software Developer, Real-Time Applications*
+
+    -   Developed and maintained a C++ application used by the majority of Bloomberg Terminal users.
+    -   Built user interfaces using Bloomberg's proprietary JavaScript framework.
+    -   Developed real-time data services using a combination of C++ and JavaScript.
+
+*   **[BAE Systems Applied Intelligence](http://www.baesystems.com/ai)** (2011 - 2014)
 
     *Senior Software Developer, Electronic Systems Group.*
 
@@ -39,7 +47,7 @@ Career
     -   Gained substantial experience using and analysing low-level network and transport layer protocols.
     -   Developed front-end web applications for various systems using Python, Django, JavaScript and Ruby on Rails.
 
-*   **[Defence Science and Technology Laboratory, MOD](https://www.dstl.gov.uk)** (2009 - 2011)
+*   **[Defence Science and Technology Laboratory, MOD](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory)** (2009 - 2011)
 
     *Electronic Engineer, Electronic Countermeasures.*
 
@@ -55,12 +63,6 @@ Education
 
     *MSci Mathematics and Physics (First Class Honours).*
 
-    -   Advanced mathematical, optimisation and simulation techniques.
-    -   Dissertation involved creating a substantial C application to simulate the chemical and mechanical characteristics of complex carbon nanostructures.
-
 *  **[Chislehurst and Sidcup Grammar School](http://www.csgrammar.com)** (1998 - 2005)
 
     *A Levels: Computing A, Maths A, Physics A, Chemistry C.*
-
-    -   Cedric Morley award for Physics.
-    -   Outstanding A level results award.
